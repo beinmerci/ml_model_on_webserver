@@ -1,5 +1,5 @@
 # Hand written numerical data classification
-Application of Deep Learning and Machine Learning on MNSIT data
+Application of Deep Learning and Machine Learning on on hand written mumerical data
 
 Exposing your data science application using Flask (Flask includes a very simple built-in web server, which is good enough for development and testing environmnet)
 
