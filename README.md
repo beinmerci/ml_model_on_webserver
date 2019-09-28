@@ -17,4 +17,6 @@ Steps:
 6. Choose File/Image to be predicted
 7. Click Predict to get result
 
+** Note: All codes were executed on Windows 10
+
     
